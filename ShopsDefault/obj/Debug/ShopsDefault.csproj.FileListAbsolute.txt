@@ -1,0 +1,4 @@
+D:\LapTrinh\Project\ShopsDefault\ShopsDefault\ShopsDefault\obj\Debug\ShopsDefault.csprojAssemblyReference.cache
+D:\LapTrinh\Project\ShopsDefault\ShopsDefault\ShopsDefault\obj\Debug\ShopsDefault.csproj.CoreCompileInputs.cache
+D:\CodeThue\ShopsDefault\ShopsDefault\ShopsDefault\obj\Debug\ShopsDefault.csprojAssemblyReference.cache
+D:\CodeThue\ShopsDefault\ShopsDefault\ShopsDefault\obj\Debug\ShopsDefault.csproj.CoreCompileInputs.cache
